@@ -1,2 +1,2 @@
 # Print_Patterns
-Fundamental Loop Program to Print Patterns
+Fundamental Loop Programs to Print Different Patterns
